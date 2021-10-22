@@ -15,7 +15,6 @@
         android:background="@drawable/giristext"
         android:ems="10"
         android:gravity="center"
-        android:inputType="textPersonName"
         android:hint="Adınız"
         android:textColorHint="@color/baslıkrenk"
         app:layout_constraintEnd_toEndOf="parent"
@@ -46,7 +45,6 @@
         android:background="@drawable/giristext"
         android:ems="10"
         android:gravity="center"
-        android:inputType="textPersonName"
         android:hint="Soyadınız"
         android:textColorHint="@color/baslıkrenk"
         app:layout_constraintEnd_toEndOf="parent"
@@ -63,7 +61,6 @@
         android:ems="10"
         android:gravity="center"
         android:hint="Numaranız"
-        android:inputType="number"
         android:textColorHint="@color/baslıkrenk"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
@@ -79,7 +76,6 @@
         android:ems="10"
         android:gravity="center"
         android:hint="E-mail adresiniz"
-        android:inputType="textEmailAddress"
         android:textColorHint="@color/baslıkrenk"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
@@ -95,7 +91,6 @@
         android:ems="10"
         android:gravity="center"
         android:hint="Telefon Numaranız"
-        android:inputType="phone"
         android:textColorHint="@color/baslıkrenk"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
@@ -111,7 +106,6 @@
         android:ems="10"
         android:gravity="center"
         android:hint="TC kimlik numaranız"
-        android:inputType="number"
         android:textColorHint="@color/baslıkrenk"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
@@ -127,7 +121,6 @@
         android:ems="10"
         android:gravity="center"
         android:hint="Adresiniz"
-        android:inputType="textPostalAddress"
         android:textColorHint="@color/baslıkrenk"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
@@ -143,57 +136,22 @@
         android:ems="10"
         android:gravity="center"
         android:inputType="textPersonName"
-        android:text="Sınıfınız"
+        android:text="Şifreniz"
         android:textColor="@color/baslıkrenk"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPostalAddress" />
 
-    <Spinner
-        android:id="@+id/spinner"
-        android:layout_width="366dp"
-        android:layout_height="35dp"
-        android:layout_marginTop="12dp"
-        android:background="@drawable/giristext"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName4" />
-
-    <Spinner
-        android:id="@+id/spinner2"
-        android:layout_width="366dp"
-        android:layout_height="35dp"
-        android:layout_marginTop="12dp"
-        android:background="@drawable/giristext"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.511"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spinner" />
-
     <Button
         android:id="@+id/button6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="100dp"
         android:background="@drawable/buton"
         android:text="KAYIT OL"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName5" />
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName4" />
 
-    <EditText
-        android:id="@+id/editTextTextPersonName5"
-        android:layout_width="366dp"
-        android:layout_height="35dp"
-        android:layout_marginTop="14dp"
-        android:layout_marginEnd="23dp"
-        android:background="@drawable/giristext"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:gravity="center"
-        android:hint="Güvenlik sorusu: İlkokul öğretmeninizin adı ?"
-        android:textColorHint="@color/baslıkrenk"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spinner2" />
 </androidx.constraintlayout.widget.ConstraintLayout>
