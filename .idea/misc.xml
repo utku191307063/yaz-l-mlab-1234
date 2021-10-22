@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/arkaplan.xml" value="0.2703125" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/buton.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/giristext.xml" value="0.2703125" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/kayitekraniakraplan.xml" value="0.2703125" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/kilit.xml" value="0.2703125" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_capformu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_capyonetmelik.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_denemeyazokulu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_gorevligiris.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_kayitekrani.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_kayitol.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_menusayfasi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_scrolling_activityyazokulu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_sifremiunuttum.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_yazokulubasvuru.xml" value="0.264" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_yen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_yenikayit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Casper/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/content_scrolling.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
